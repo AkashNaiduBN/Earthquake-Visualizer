@@ -36,3 +36,4 @@ export default function useEarthquakes({ feed='all_day', autoRefresh=true }={}) 
 
   return { data, loading, error, refetch: fetchData, lastUpdated }
 }
+

@@ -84,3 +84,4 @@ export default function MapView({ earthquakes, loading, countryBounds }) {
     </div>
   )
 }
+
