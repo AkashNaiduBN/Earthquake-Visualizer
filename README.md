@@ -69,8 +69,6 @@ npm run build
 # preview local build
 npm run preview
 
-Deployed in Codesandbox
-
 ## Deployment
 This project is deployed on *CodeSandbox*.  
 •⁠  ⁠The GitHub repository was imported into CodeSandbox.  
@@ -80,4 +78,4 @@ This project is deployed on *CodeSandbox*.
 
 ## Data Sources
 Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-Geocoding: https://nominatim.openstreetmap.org/ui/search.html
+Geocoding: https://nominatim.openstreetmap.org/ui/search.htmlLast updated: Thu Oct 30 10:21:41 IST 2025
